@@ -5,6 +5,6 @@ This is the first project from "The Odin Project". The aim of this project is to
 In this project, I will have demonstrated that I am capable of:
 * creating a basic functional web page
 * editing the written content of a web page
-* formatting the structure of the content of a web page
-* adding absolute and relative links to other web pages
+* formatting the structure of the content and the text of a web page
+* adding links to other web pages
 * adding pictures to a web site
